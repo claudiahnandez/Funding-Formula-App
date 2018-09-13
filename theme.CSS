@@ -1,0 +1,42 @@
+html *
+{
+  font-family: "Georgia", Times, "Times New Roman", serif;
+}
+
+.skin-yellow .left-side, .skin-yellow .main-sidebar, .skin-yellow .wrapper {
+background-color: rgb(255, 255, 255);
+}
+
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.skin-yellow .main-header .logo {
+background-color: rgb(219, 194, 11);
+color: #fff;
+border-bottom: 0 solid transparent;
+}
+
+.skin-yellow .main-header .navbar {
+background-color: rgb(243, 216, 18);
+}
+
+.box.box-solid.box-info>.box-header {
+color: rgb(255, 255, 255);
+background: rgb(0, 0, 0);
+background-color: rgba(6, 31, 41, 0.81);
+}
+
+.box.box-solid.box-info {
+border: 1px solid rgb(2, 2, 2);
+}
+
+.content-wrapper, .right-side {
+background-color: #fff;
+}
+
+.nav-tabs-custom>.nav-tabs>li.active {
+border-top-color: rgb(153, 25, 14);
+}

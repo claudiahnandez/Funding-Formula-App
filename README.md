@@ -24,3 +24,5 @@ explanetory. I put the code up because there is limited example of what a shiny 
 a website call <a href="https://www.showmeshiny.com/">Show Me Shiny</a> with good examples but some
 of those apps you can notice not a lot of effort went into making them. If you like my setup you are
 more than welcome to copy it. I comment pretty profusely so hopefully everything is understandable enough.
+</br></br>
+<strong><i>Note: the code is up but will not run on R studio because it needs immediate access to a server for the school I work for. For security resons, this server is not accessible. A link to the app will be posted soon..</i></strong>
